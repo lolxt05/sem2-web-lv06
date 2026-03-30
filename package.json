@@ -20,5 +20,8 @@
   "homepage": "https://github.com/lolxt05/sem2-web-lv06#readme",
   "devDependencies": {
     "typescript": "^6.0.2"
+  },
+  "dependencies": {
+    "common-js": "^0.3.8"
   }
 }

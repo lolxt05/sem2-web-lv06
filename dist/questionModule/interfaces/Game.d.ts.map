@@ -1,0 +1,1 @@
+{"version":3,"file":"Game.d.ts","sourceRoot":"","sources":["../../../src/questionModule/interfaces/Game.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,MAAM,EAAE,MAAM,UAAU,CAAC;AAClC,OAAO,EAAE,YAAY,EAAE,MAAM,gBAAgB,CAAC;AAE9C,MAAM,WAAW,IAAI;IACnB,QAAQ,EAAE,YAAY,CAAC;IACvB,OAAO,EAAE,MAAM,EAAE,CAAC;CACnB"}
