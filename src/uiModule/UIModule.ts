@@ -1,8 +1,8 @@
-import { Answer } from "../questionModule/interfaces/Answer";
-import { Player } from "../questionModule/interfaces/Player";
-import { Question } from "../questionModule/interfaces/Question";
-import {Category} from "../questionModule/interfaces/enums/CategoryEnum";
-import {Difficulty} from "../questionModule/interfaces/enums/DifficultyEnum";
+import { Answer } from "../questionModule/interfaces/Answer.js";
+import { Player } from "../questionModule/interfaces/Player.js";
+import { Question } from "../questionModule/interfaces/Question.js";
+import {Category} from "../questionModule/interfaces/enums/CategoryEnum.js";
+import {Difficulty} from "../questionModule/interfaces/enums/DifficultyEnum.js";
 
 
 
@@ -24,7 +24,7 @@ export const displayScore = (player: Player) => {
   container.textContent = "";}
 
 export const displayQuestion = (question: Question) => {
-  console.log(question);
+  console.log("test123");
   let container = document.getElementById("container") as HTMLElement;
   container.textContent = "";
   let Question: HTMLDivElement = document?.createElement("div");

@@ -1,1 +1,0 @@
-{"version":3,"file":"QuestionBank.d.ts","sourceRoot":"","sources":["../../../src/questionModule/interfaces/QuestionBank.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,QAAQ,EAAE,MAAM,YAAY,CAAC;AAEtC,MAAM,WAAW,YAAY;IAC3B,SAAS,EAAE,QAAQ,EAAE,CAAC;IACtB,IAAI,CAAC,IAAI,EAAE,MAAM,GAAG,IAAI,CAAC;IACzB,gBAAgB,IAAI,QAAQ,EAAE,CAAC;CAChC"}
