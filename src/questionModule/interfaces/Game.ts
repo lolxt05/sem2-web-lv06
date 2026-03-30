@@ -1,5 +1,5 @@
-import { Player } from "./Player";
-import { QuestionBank } from "./QuestionBank";
+import { Player } from "./Player.js";
+import { QuestionBank } from "./QuestionBank.js";
 
 export interface Game {
   question: QuestionBank;

@@ -1,6 +1,6 @@
-import {Answer} from "./Answer";
-import {Category} from "./enums/CategoryEnum";
-import {Difficulty} from "./enums/DifficultyEnum";
+import {Answer} from "./Answer.js";
+import {Category} from "./enums/CategoryEnum.js";
+import {Difficulty} from "./enums/DifficultyEnum.js";
 
 export interface Question {
   question: string;

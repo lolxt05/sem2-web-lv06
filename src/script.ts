@@ -1,10 +1,10 @@
-import {Question} from "./questionModule/interfaces/Question";
-import {Category} from "./questionModule/interfaces/enums/CategoryEnum";
-import {Difficulty} from "./questionModule/interfaces/enums/DifficultyEnum";
-import {displayQuestion} from "./uiModule/UIModule"
+import {Question} from "./questionModule/interfaces/Question.js";
+import {Category} from "./questionModule/interfaces/enums/CategoryEnum.js";
+import {Difficulty} from "./questionModule/interfaces/enums/DifficultyEnum.js";
+import {displayQuestion} from "./uiModule/UIModule.js";
 
 const Mock_Question: Question = {
-    question: 'What planet is known as the Red Planet?',
+    question: 'Hello world planet is known as the Red Planet?',
     category: Category.Geography,
     difficulty: Difficulty.EASY,
     answers: [

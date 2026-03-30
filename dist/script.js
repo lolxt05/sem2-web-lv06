@@ -2,7 +2,7 @@ import { Category } from "./questionModule/interfaces/enums/CategoryEnum.js";
 import { Difficulty } from "./questionModule/interfaces/enums/DifficultyEnum.js";
 import { displayQuestion } from "./uiModule/UIModule.js";
 const Mock_Question = {
-    question: 'What planet is known as the Red Planet?',
+    question: 'Hello world planet is known as the Red Planet?',
     category: Category.Geography,
     difficulty: Difficulty.EASY,
     answers: [

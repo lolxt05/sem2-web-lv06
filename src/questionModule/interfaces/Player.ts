@@ -1,5 +1,5 @@
-import { Pair } from "./Pair";
-import { Question } from "./Question";
+import { Pair } from "./Pair.js";
+import { Question } from "./Question.js";
 
 export interface Player {
   score: number;
