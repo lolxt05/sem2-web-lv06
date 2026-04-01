@@ -1,8 +1,7 @@
-import { Difficulty } from "../questionModule/interfaces/enums/DifficultyEnum.js";
-export class ScoreHandler {
+export class ScoreHandlerInterface {
     constructor() {
         this.increaseScore = (player, difficulty) => {
-            player.score += +Difficulty;
+            player.score += +difficulty;
         };
         this.calculateScore = (player) => {
             player.score = 0;

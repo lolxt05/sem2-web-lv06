@@ -10,7 +10,7 @@ export interface ScoreHandlerInterface {
 
 export class ScoreHandlerInterface implements ScoreHandlerInterface {
   increaseScore = (player: Player, difficulty: Difficulty) => {
-    player.score += +Difficulty;
+    player.score += +difficulty;
   }
 
   calculateScore = (player: Player): void => {

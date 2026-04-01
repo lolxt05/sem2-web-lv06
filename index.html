@@ -4,16 +4,24 @@
     <meta charset="UTF-8">
     <title>Title</title>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="style.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-
-<button type="button" class="btn btn-primary" id="new-Player">Primary</button>
-<div id="score"></div>
-<div id="scoreboard"></div>
-<div id="container" class="container">
+<div class="container">
+    <div class="jumbotron text-center" id="header">
+        <h1>Quiz</h1>
+        <p class="lead text-muted">Answer 5 questions.</p>
+        <div id="score"></div>
+    </div>
+    <div id="scoreboard"></div>
+    <div id="container"></div>
+    <hr>
+    <div class="text-center">
+        <button type="button" class="btn btn-primary btn-lg" id="new-Player">New Player</button>
+    </div>
 </div>
+<script type="module" src="dist/script.js"></script>
 </body>
 </html>
-<script type="module" src="dist/script.js"></script>

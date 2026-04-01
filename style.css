@@ -1,0 +1,37 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+
+.container {
+    width: 70% !important;
+    max-width: 70% !important;
+}
+
+.answer-card {
+    display: block;
+    width: 100%;
+    padding: 30px 20px;
+    margin-bottom: 16px;
+    font-size: 1.1em;
+    text-align: center;
+    background-color: #eaf2fb;
+    border: 2px solid #a8c8e8;
+    border-radius: 8px;
+    cursor: pointer;
+    text-decoration: none;
+    color: #337ab7;
+    transition: background-color 0.2s, color 0.2s;
+}
+
+.answer-card:hover {
+    background-color: #337ab7;
+    color: #ffffff;
+    text-decoration: none;
+}

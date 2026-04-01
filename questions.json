@@ -1,0 +1,338 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Australia?",
+      "category": 0,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Sydney",   "correct": false },
+        { "answer": "Canberra", "correct": true  },
+        { "answer": "Melbourne","correct": false },
+        { "answer": "Brisbane", "correct": false }
+      ]
+    },
+    {
+      "question": "Which country has the largest land area in the world?",
+      "category": 0,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Canada",  "correct": false },
+        { "answer": "China",   "correct": false },
+        { "answer": "Russia",  "correct": true  },
+        { "answer": "USA",     "correct": false }
+      ]
+    },
+    {
+      "question": "On which continent is the Sahara Desert located?",
+      "category": 0,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Asia",        "correct": false },
+        { "answer": "Africa",      "correct": true  },
+        { "answer": "South America","correct": false },
+        { "answer": "Australia",   "correct": false }
+      ]
+    },
+    {
+      "question": "Which river is the longest in the world?",
+      "category": 0,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Amazon",  "correct": false },
+        { "answer": "Yangtze", "correct": false },
+        { "answer": "Nile",    "correct": true  },
+        { "answer": "Congo",   "correct": false }
+      ]
+    },
+    {
+      "question": "Which country does NOT border Germany?",
+      "category": 0,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Denmark",     "correct": false },
+        { "answer": "Switzerland", "correct": false },
+        { "answer": "Hungary",     "correct": true  },
+        { "answer": "Austria",     "correct": false }
+      ]
+    },
+    {
+      "question": "What is the smallest country in the world by area?",
+      "category": 0,
+      "difficulty": 3,
+      "answers": [
+        { "answer": "Monaco",      "correct": false },
+        { "answer": "San Marino",  "correct": false },
+        { "answer": "Vatican City","correct": true  },
+        { "answer": "Liechtenstein","correct": false }
+      ]
+    },
+
+    {
+      "question": "Who painted the Mona Lisa?",
+      "category": 1,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Michelangelo",   "correct": false },
+        { "answer": "Leonardo da Vinci","correct": true },
+        { "answer": "Raphael",        "correct": false },
+        { "answer": "Caravaggio",     "correct": false }
+      ]
+    },
+    {
+      "question": "What language has the most native speakers in the world?",
+      "category": 1,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "English",  "correct": false },
+        { "answer": "Spanish",  "correct": false },
+        { "answer": "Mandarin", "correct": true  },
+        { "answer": "Hindi",    "correct": false }
+      ]
+    },
+    {
+      "question": "In which city is the Louvre Museum located?",
+      "category": 1,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Rome",   "correct": false },
+        { "answer": "London", "correct": false },
+        { "answer": "Berlin", "correct": false },
+        { "answer": "Paris",  "correct": true  }
+      ]
+    },
+    {
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "category": 1,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Charles Dickens",    "correct": false },
+        { "answer": "William Shakespeare","correct": true  },
+        { "answer": "Oscar Wilde",        "correct": false },
+        { "answer": "Jane Austen",        "correct": false }
+      ]
+    },
+    {
+      "question": "Which musical instrument has 88 keys?",
+      "category": 1,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Organ",  "correct": false },
+        { "answer": "Harp",   "correct": false },
+        { "answer": "Piano",  "correct": true  },
+        { "answer": "Harpsichord","correct": false }
+      ]
+    },
+    {
+      "question": "Who composed the opera 'The Magic Flute'?",
+      "category": 1,
+      "difficulty": 3,
+      "answers": [
+        { "answer": "Beethoven", "correct": false },
+        { "answer": "Bach",      "correct": false },
+        { "answer": "Haydn",     "correct": false },
+        { "answer": "Mozart",    "correct": true  }
+      ]
+    },
+
+    {
+      "question": "In 'Game of Thrones', what is the Stark family motto?",
+      "category": 2,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Fire and Blood",    "correct": false },
+        { "answer": "Winter is Coming",  "correct": true  },
+        { "answer": "Hear Me Roar",      "correct": false },
+        { "answer": "We Do Not Sow",     "correct": false }
+      ]
+    },
+    {
+      "question": "What is the name of the coffee shop in 'Friends'?",
+      "category": 2,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Brew Ha-Ha",  "correct": false },
+        { "answer": "Central Perk","correct": true  },
+        { "answer": "Java Joe's",  "correct": false },
+        { "answer": "The Grind",   "correct": false }
+      ]
+    },
+    {
+      "question": "What fictional high school do the characters in 'Stranger Things' attend?",
+      "category": 2,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Hawkins High",    "correct": true  },
+        { "answer": "Sunnydale High",  "correct": false },
+        { "answer": "Bayside High",    "correct": false },
+        { "answer": "West Beverly High","correct": false }
+      ]
+    },
+    {
+      "question": "Which actor plays Walter White in 'Breaking Bad'?",
+      "category": 2,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Matthew McConaughey","correct": false },
+        { "answer": "Bryan Cranston",     "correct": true  },
+        { "answer": "Michael Fassbender", "correct": false },
+        { "answer": "Aaron Paul",         "correct": false }
+      ]
+    },
+    {
+      "question": "In 'The Witcher', what is Geralt's home fortress called?",
+      "category": 2,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Novigrad",  "correct": false },
+        { "answer": "Vizima",    "correct": false },
+        { "answer": "Kaer Morhen","correct": true },
+        { "answer": "Oxenfurt",  "correct": false }
+      ]
+    },
+    {
+      "question": "In which series does the character 'Omar Little' appear?",
+      "category": 2,
+      "difficulty": 3,
+      "answers": [
+        { "answer": "The Sopranos","correct": false },
+        { "answer": "Oz",          "correct": false },
+        { "answer": "The Shield",  "correct": false },
+        { "answer": "The Wire",    "correct": true  }
+      ]
+    },
+
+    {
+      "question": "Who was the first person to walk on the Moon?",
+      "category": 3,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Buzz Aldrin",  "correct": false },
+        { "answer": "Yuri Gagarin", "correct": false },
+        { "answer": "Neil Armstrong","correct": true },
+        { "answer": "John Glenn",   "correct": false }
+      ]
+    },
+    {
+      "question": "Who developed the theory of general relativity?",
+      "category": 3,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Isaac Newton",   "correct": false },
+        { "answer": "Nikola Tesla",   "correct": false },
+        { "answer": "Albert Einstein","correct": true  },
+        { "answer": "Stephen Hawking","correct": false }
+      ]
+    },
+    {
+      "question": "Which artist is known for cutting off his own ear?",
+      "category": 3,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Pablo Picasso",  "correct": false },
+        { "answer": "Claude Monet",   "correct": false },
+        { "answer": "Paul Gauguin",   "correct": false },
+        { "answer": "Vincent van Gogh","correct": true }
+      ]
+    },
+    {
+      "question": "Which US president abolished slavery?",
+      "category": 3,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "George Washington","correct": false },
+        { "answer": "Abraham Lincoln",  "correct": true  },
+        { "answer": "Ulysses S. Grant", "correct": false },
+        { "answer": "Andrew Johnson",   "correct": false }
+      ]
+    },
+    {
+      "question": "What nationality was the explorer Ferdinand Magellan?",
+      "category": 3,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Spanish",    "correct": false },
+        { "answer": "Portuguese", "correct": true  },
+        { "answer": "Italian",    "correct": false },
+        { "answer": "Dutch",      "correct": false }
+      ]
+    },
+    {
+      "question": "Who was the first woman to win a Nobel Prize?",
+      "category": 3,
+      "difficulty": 3,
+      "answers": [
+        { "answer": "Rosalind Franklin","correct": false },
+        { "answer": "Ada Lovelace",     "correct": false },
+        { "answer": "Marie Curie",      "correct": true  },
+        { "answer": "Florence Nightingale","correct": false }
+      ]
+    },
+
+    {
+      "question": "How many players are on a football (soccer) team on the field?",
+      "category": 4,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "9",  "correct": false },
+        { "answer": "10", "correct": false },
+        { "answer": "11", "correct": true  },
+        { "answer": "12", "correct": false }
+      ]
+    },
+    {
+      "question": "In which sport do competitors perform a 'slam dunk'?",
+      "category": 4,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "Volleyball",  "correct": false },
+        { "answer": "Basketball",  "correct": true  },
+        { "answer": "Handball",    "correct": false },
+        { "answer": "Water Polo",  "correct": false }
+      ]
+    },
+    {
+      "question": "How many Grand Slam tennis tournaments are held each year?",
+      "category": 4,
+      "difficulty": 1,
+      "answers": [
+        { "answer": "2", "correct": false },
+        { "answer": "3", "correct": false },
+        { "answer": "4", "correct": true  },
+        { "answer": "5", "correct": false }
+      ]
+    },
+    {
+      "question": "Which country has won the most FIFA World Cup titles?",
+      "category": 4,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "Germany",   "correct": false },
+        { "answer": "Argentina", "correct": false },
+        { "answer": "Italy",     "correct": false },
+        { "answer": "Brazil",    "correct": true  }
+      ]
+    },
+    {
+      "question": "In what year did the modern Olympic Games begin?",
+      "category": 4,
+      "difficulty": 2,
+      "answers": [
+        { "answer": "1896", "correct": true  },
+        { "answer": "1900", "correct": false },
+        { "answer": "1912", "correct": false },
+        { "answer": "1924", "correct": false }
+      ]
+    },
+    {
+      "question": "What is the maximum score in a single game of ten-pin bowling?",
+      "category": 4,
+      "difficulty": 3,
+      "answers": [
+        { "answer": "270", "correct": false },
+        { "answer": "300", "correct": true  },
+        { "answer": "330", "correct": false },
+        { "answer": "360", "correct": false }
+      ]
+    }
+  ]
+}

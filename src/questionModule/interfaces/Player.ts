@@ -9,12 +9,12 @@ export interface Player {
   pair: Pair[];
 }
 
-export function createPlayer():Player{
-  return new class implements Player {
-    max_score: number = 0;
-    name: string = prompt("input new player name") as string;
-    pair: Pair[] = [];
-    questions: Question[] = [];
-    score: number = 0;
+export function createPlayer(): Player {
+  return {
+    max_score: 0,
+    name: prompt("input new player name") as string,
+    pair: [],
+    questions: [],
+    score: 0,
   };
 }
